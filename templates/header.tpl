@@ -26,6 +26,8 @@
 	<!-- END -->
 	<!-- IF useCustomCSS -->
 	<style type="text/css">{{customCSS}}</style>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli:300,400,400i,600,700">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/media/favicons/apple-touch-icon-180x180.png">
 	<!-- END -->
 </head>
 
@@ -80,7 +82,7 @@
 				<div class="bar"></div>
 			</div>
 			<div class="container">
-				<!-- IMPORT partials/menu.tpl -->
+				<!-- IMPORT partials/menu2.tpl -->
 			</div>
 		</nav>
 		<div class="container" id="content">
